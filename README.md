@@ -1,26 +1,23 @@
-# 👋 Olá, sou Pedr0AZ!
+# 👋 Sobre mim!
 
-💻 **Desenvolvedor apaixonado por tecnologia**  
-Focado em criar soluções interativas e inovadoras. Atualmente, trabalho em projetos de aprendizado de Libras, combinando **inteligência artificial** com **interfaces amigáveis**.
+ ---
+ 
+💻 **Aluno quase se formando em Desenvolvimento de Sistemas na ETEC Camargo Aranha;**  
+     **Focado em Banco de dadose desenvolvimento web;**
+      Estudando ferramentas sobre Banco de dados.
 
 ---
 
-## 🚀 Tecnologias e Habilidades
-- **Linguagens**: Python, JavaScript, HTML, CSS  
-- **Ferramentas**: MediaPipe, OpenCV, Pickle, Flask  
-- **Áreas de Interesse**: Reconhecimento de gestos, desenvolvimento web e aprendizado de máquina.
+## 🚀 **Tecnologias que sou familiarizado:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 
 ## 🌟 Projetos em Destaque
 - [TCC-LB](https://github.com/Pedr0AZ/TCC-LB): Site para aprendizado de Libras com foco em reconhecimento de sinais.
 
----
 
-## 🎯 Objetivo Atual
-Desenvolver ferramentas acessíveis e eficientes para a inclusão e comunicação por meio da Libras.
-
----
-
-📫 **Contato**:  
-- [LinkedIn](#) | [Email](mailto:seuemail@example.com)
