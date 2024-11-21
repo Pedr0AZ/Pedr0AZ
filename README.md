@@ -1,18 +1,26 @@
-<div align="center">
- # <h1>Pedro Henrique</h1>
+# 👋 Olá, sou Pedr0AZ!
 
-</div>
-<!--
-**Pedr0AZ/Pedr0AZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor apaixonado por tecnologia**  
+Focado em criar soluções interativas e inovadoras. Atualmente, trabalho em projetos de aprendizado de Libras, combinando **inteligência artificial** com **interfaces amigáveis**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Habilidades
+- **Linguagens**: Python, JavaScript, HTML, CSS  
+- **Ferramentas**: MediaPipe, OpenCV, Pickle, Flask  
+- **Áreas de Interesse**: Reconhecimento de gestos, desenvolvimento web e aprendizado de máquina.
+
+---
+
+## 🌟 Projetos em Destaque
+- [TCC-LB](https://github.com/Pedr0AZ/TCC-LB): Site para aprendizado de Libras com foco em reconhecimento de sinais.
+
+---
+
+## 🎯 Objetivo Atual
+Desenvolver ferramentas acessíveis e eficientes para a inclusão e comunicação por meio da Libras.
+
+---
+
+📫 **Contato**:  
+- [LinkedIn](#) | [Email](mailto:seuemail@example.com)
