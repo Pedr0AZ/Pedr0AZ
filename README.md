@@ -1,5 +1,7 @@
- # Hi there 👋
+<div align="center">
+ # <h1>Pedro Henrique</h1>
 
+</div>
 <!--
 **Pedr0AZ/Pedr0AZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
